@@ -11,7 +11,7 @@
     # set spacevim theme. by default colorscheme layer is not loaded,
     # if you want to use more colorscheme, please load the colorscheme
     # layer
-    # colorscheme = "material"
+    colorscheme = "srcery"
     colorscheme_bg = "dark"
     # Disable guicolors in basic mode, many terminal do not support 24bit
     # true colors
@@ -23,7 +23,7 @@
     buffer_index_type = 4
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
-    project_rooter_automatically = 0 
+    project_rooter_automatically = 0
     enable_vimfiler_filetypeicon = true
     enable_vimfiler_gitstatus = true
     filetree_direction = "left"
@@ -70,10 +70,16 @@
   gtagslabel = "ctags"
 
 [[layers]]
-  name = "autocomplete"
+  name = "checkers"
 
 [[layers]]
-  name = "checkers"
+  name = "lang#dockerfile"
+
+[[layers]]
+  name = "lang#php"
+
+[[layers]]
+  name = "lang#sh"
 
 # [[custom_plugins]]
   # name = 'airblade/vim-rooter'
@@ -81,4 +87,8 @@
 
 [[custom_plugins]]
   name = 'ryanoasis/vim-devicons'
+  merged = 0
+
+[[custom_plugins]]
+  name = 'tiagofumo/vim-nerdtree-syntax-highlight'
   merged = 0
