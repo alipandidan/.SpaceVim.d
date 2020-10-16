@@ -12,3 +12,6 @@ Add following to to the `PATH`:
 
 ### Install required Python modules
 `pip install --user jedi flak8 isort pylint pyflakes`
+
+### Install `ripgrep` for faster greps
+`brew install ripgrep`
