@@ -18,6 +18,6 @@ Add following to to the `PATH`:
 
 ### Useful shortcuts
 
-Find file in project:       SPC p f  
-Search on the fly:          SPC s /
-Reveal file in tree:        SPC f o
+Find file in project:       `SPC p f`
+Search on the fly:          `SPC s /`
+Reveal file in tree:        `SPC f o`
