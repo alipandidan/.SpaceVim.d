@@ -22,6 +22,10 @@ Find file in project:       `SPC p f`
 
 Search on the fly:          `SPC s /`
 
+    Move search results to quickfix:     `ctrl q`
+
 Reveal file in tree:        `SPC f o`
 
-Go to definition:        `SPC g d`
+Go to definition:           `SPC g d`
+
+Clear search results        `SPC s c`
