@@ -29,3 +29,5 @@ Reveal file in tree:        `SPC f o`
 Go to definition:           `SPC g d`
 
 Clear search results        `SPC s c`
+
+Expand NerdTree              `A`
