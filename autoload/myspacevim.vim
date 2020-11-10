@@ -6,6 +6,11 @@ function! myspacevim#before() abort
     let g:webdevicons_enable_ctrlp = 1
     
     " let g:ctrlp_working_path_mode = 0
+    
+    let g:NERDTreeGitStatusUseNerdFonts = 1
+    let g:NERDTreeGitStatusShowIgnored = 1
+    let g:NERDTreeGitStatusUntrackedFilesMode = 'all'
+    let g:NERDTreeGitStatusConcealBrackets = 1
 endfunction
 
 function! myspacevim#after() abort
