@@ -32,4 +32,8 @@ Clear search results        `SPC s c`
 
 Expand NerdTree              `A`
 
+Create file in NERDTree      `m a <filename>`
+
+Delete file in NERDTree      `m d`
+
 Read more here: https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
