@@ -50,3 +50,4 @@ Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
 - https://vim.fandom.com/wiki/Moving_around
 - https://spacevim.org/documentation/#files-manipulations-key-bindings
+- SpaceVim window manager https://spacevim.org/documentation/#window-manager
