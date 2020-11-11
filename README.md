@@ -46,6 +46,8 @@ Close tab                     `s q`
 
 Swtich between tabs             ` <leader>  1-9` `option 1-9` `option left or right`
 
+Comment line `SPC c l`
+
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
 - https://vim.fandom.com/wiki/Moving_around
