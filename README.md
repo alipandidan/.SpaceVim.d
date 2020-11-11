@@ -38,6 +38,10 @@ Create file in NERDTree      `m a <filename>`
 
 Delete file in NERDTree      `m d`
 
+Delete a file with buffer   `SPC f D`
+
+Save a file `SPC f s`
+
 Close tab                     `s q`
 
 Swtich between tabs             ` <leader>  1-9` `option 1-9` `option left or right`
@@ -45,3 +49,4 @@ Swtich between tabs             ` <leader>  1-9` `option 1-9` `option left or ri
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
 - https://vim.fandom.com/wiki/Moving_around
+- https://spacevim.org/documentation/#files-manipulations-key-bindings
