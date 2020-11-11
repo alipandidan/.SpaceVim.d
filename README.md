@@ -31,3 +31,5 @@ Go to definition:           `SPC g d`
 Clear search results        `SPC s c`
 
 Expand NerdTree              `A`
+
+Read more here: https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
