@@ -40,4 +40,6 @@ Delete file in NERDTree      `m d`
 
 Close tab                     `s q`
 
+Swtich between tabs             ` <leader>  1-9` `option 1-9` `option left or right`
+
 Read more here: https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
