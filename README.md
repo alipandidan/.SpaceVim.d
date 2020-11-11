@@ -38,6 +38,12 @@ Create file in NERDTree      `m a <filename>`
 
 Delete file in NERDTree      `m d`
 
+Reveal in finder    `m r`
+
+Copy file `m c`
+
+Copy file path `m p`
+
 Delete a file with buffer   `SPC f D`
 
 Save a file `SPC f s`
