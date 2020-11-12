@@ -54,6 +54,10 @@ Swtich between tabs             ` <leader>  1-9` `option 1-9` `option left or ri
 
 Comment line `SPC c l`
 
+Highlight selection `*`
+
+Highlight symbols `SPC s h`
+
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
 - https://vim.fandom.com/wiki/Moving_around
