@@ -27,7 +27,7 @@
       'percentage',
       'date',
       'time',
-      # 'battery status',
+      'battery status',
     ]
     buffer_index_type = 4
     enable_tabline_filetype_icon = true
