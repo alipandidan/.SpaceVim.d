@@ -58,6 +58,8 @@ Highlight selection `*`
 
 Highlight symbols `SPC s h`
 
+Reload NERDTREE `R`
+
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
 - https://vim.fandom.com/wiki/Moving_around
