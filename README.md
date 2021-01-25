@@ -62,6 +62,12 @@ Reload NERDTREE `R`
 
 Swtich back to alternate file `ctrl ^` `ctrl 6`
 
+Git status `SPC g s`
+
+Show git diff `SPC g d`
+
+Show line changes `SPC g h v`
+
 ______
 
 Misc:
