@@ -62,6 +62,11 @@ Reload NERDTREE `R`
 
 Swtich back to alternate file `ctrl ^` `ctrl 6`
 
+______
+
+Fish shell bonus: 
+omf install bobthefish fzf plugin-git
+
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
 - https://vim.fandom.com/wiki/Moving_around
