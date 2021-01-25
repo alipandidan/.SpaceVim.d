@@ -64,8 +64,11 @@ Swtich back to alternate file `ctrl ^` `ctrl 6`
 
 ______
 
-Fish shell bonus: 
-omf install bobthefish fzf plugin-git
+Misc:
+Install fish shell and following plugins:
+bobthefish, fzf, plugin-git
+
+Don't forget diff-so-fancy
 
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
