@@ -68,11 +68,13 @@ Show git diff `SPC g d`
 
 Show line changes `SPC g h v`
 
-______
 
-Misc:
-Install fish shell and following plugins:
-bobthefish, fzf, plugin-git
+
+### Misc:
+Install fish shell and the following plugins using a package manager:
+bobthefish/tide, fzf, plugin-git
+
+alternative: zsh, oh-my-zsh and agkozak/agkozak-zsh-prompt for async git status
 
 Don't forget diff-so-fancy
 
