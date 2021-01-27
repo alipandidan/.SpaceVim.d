@@ -1,20 +1,20 @@
 " let g:ctrlp_working_path_mode = 0
 
 function! myspacevim#before() abort
-    let NERDTreeMinimalUI=1
 
     let g:webdevicons_enable = 1
     let g:webdevicons_enable_vimfiler = 1
     let g:webdevicons_enable_ctrlp = 1
 
 
-    let g:NERDTreeGitStatusUseNerdFonts = 1
-    "let g:NERDTreeGitStatusShowIgnored = 1
-    let g:NERDTreeGitStatusUntrackedFilesMode = 'all'
-    let g:NERDTreeGitStatusConcealBrackets = 1
-
-    let g:NERDTreeWinSize = 50
-
+    " let NERDTreeMinimalUI=1
+    " let g:NERDTreeGitStatusUseNerdFonts = 1
+    " let g:NERDTreeGitStatusShowIgnored = 1
+    " let g:NERDTreeGitStatusUntrackedFilesMode = 'all'
+    " let g:NERDTreeGitStatusConcealBrackets = 1
+    " let g:NERDTreeWinSize = 50
+    
+    let g:spacevim_sidebar_width = 45
   endfunction
 
 function! myspacevim#after() abort
