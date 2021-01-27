@@ -27,16 +27,16 @@
       'percentage',
       'date',
       'time',
-      'battery status',
+      # 'battery status',
     ]
     buffer_index_type = 4
     enable_tabline_filetype_icon = true
     enable_statusline_mode = false
-    project_rooter_automatically = 0 
+    project_rooter_automatically = 0
     enable_vimfiler_filetypeicon = true
     enable_vimfiler_gitstatus = true
     filetree_direction = "left"
-    filemanager = "nerdtree"
+    # filemanager = "nerdtree"
     bootstrap_before = 'myspacevim#before'
     bootstrap_after = 'myspacevim#after'
 
@@ -98,9 +98,9 @@
   name = 'ryanoasis/vim-devicons'
   merged = 0
 
-[[custom_plugins]]
-  name = 'tiagofumo/vim-nerdtree-syntax-highlight'
-  merged = 0
+# [[custom_plugins]]
+  # name = 'tiagofumo/vim-nerdtree-syntax-highlight'
+  # merged = 0
 
 # [[custom_plugins]]
   # repo = "dracula/vim"
