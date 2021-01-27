@@ -76,7 +76,7 @@ bobthefish/tide, fzf, plugin-git
 
 alternative: zsh, oh-my-zsh and agkozak/agkozak-zsh-prompt for async git status
 
-Don't forget diff-so-fancy
+Don't forget to brew diff-so-fancy and fzf
 
 Read more:
 - https://github.com/Jackiexiao/10-minutes-to-SpaceVim/blob/master/README.md
