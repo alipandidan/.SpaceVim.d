@@ -22,6 +22,10 @@ Find file in project:       `SPC p f`
 
 Search on the fly:          `SPC s /`
 
+Search cword in project     `SPC s P`
+
+Preview findings            `CTRL p`
+
 Move flygrep search results to quickfix:     `ctrl q`
 
 Reveal file in tree:        `SPC f o`
