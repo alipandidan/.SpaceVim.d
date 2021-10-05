@@ -72,6 +72,12 @@ Show git diff `SPC g d`
 
 Show line changes `SPC g h v`
 
+Move to the beginning of the next word `w`
+
+Move to the last letter of the word     `e`
+
+Start editing one character ahead`   `a`
+
 
 
 ### Misc:
